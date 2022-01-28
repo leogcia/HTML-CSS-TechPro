@@ -29,4 +29,4 @@
       <img height="300" src="./imgMuestra/phone-footer.jpg" />
   </p>
 
-  ## Link:  
+  ## Link:  https://segundoproyectotechpro.netlify.app
