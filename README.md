@@ -5,7 +5,8 @@
 -Diseñar una página web con HTML desde cero responsive. <br>
 -Dar estilo con Css utilizado distintas variables (Grid, FelxBox, MediaQuery)<br>
 -Mejorar el rendimiento utilizando imágenes .avif, .webp, .jpg (dependiendo de cuales navegadores soporten cada formato)<br>
--NOTA: Este es el segundo proyecto de HTML / CSS
+-NOTA: Este es el segundo proyecto de HTML / CSS <br>
+## Link:  https://segundoproyectotechpro.netlify.app
 <br><br>
 
 
