@@ -391,23 +391,3 @@ img {               /* Para hacer las imgs responsive*/
     font-weight: 900;
     border: none;
 }
-
-/* .footer p {
-    height: 8rem;
-    text-align: center;
-    font-family: var(--fuenteSecundara);
-    text-transform: uppercase;
-    font-size: 2rem;
-    color: var(--primario);
-    padding: 2rem;
-} */
-/* @media (min-width: 768px) {
-    .footer p {
-        text-align: center;
-        font-family: var(--fuenteSecundara);
-        text-transform: uppercase;
-        font-size: 2rem;
-        color: var(--primario);
-        padding: 2rem;
-    }
-} */
